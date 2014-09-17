@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">My First App </string>
+    <string name="hello"></string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">Hello</string>
+    <string android:layout_width="wrap_content" android:id="@+id/string1" android:layout_height="wrap_content" name="helloLarge"></string>
+
+</resources>
